@@ -1,0 +1,17 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\bin\Debug\WPFcircuito.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\bin\Debug\WPFcircuito.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\bin\Debug\WPFcircuito.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\WPFcircuito.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\WPFcircuito.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\WPFcircuito_Content.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\WPFcircuito_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\WPFcircuito_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\WPFcircuito.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\WPFcircuito.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\WPFcircuito.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\WPFcircuito.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\WPFcircuito.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFcircuito\WPFcircuito\obj\Debug\WPFcircuito.pdb

@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPFcircuito.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFcircuito"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Dado el siguiente circuito encontrar el valor de Vab" HorizontalAlignment="Left" Margin="41,77,0,0" VerticalAlignment="Top" Height="35" Width="380" FontSize="16"/>
+        <Button x:Name="signature" Content="Firma" HorizontalAlignment="Left" Margin="188,325,0,0" VerticalAlignment="Top" Foreground="White" FontSize="14" Focusable="False" Background="#FF47B1E8" Height="30" Width="70" Click="signature_Click"/>
+        <Button x:Name="calculate" Content="Calcular voltaje" HorizontalAlignment="Left" Margin="527,147,0,0" VerticalAlignment="Top" Background="#FFEF6262" FontSize="16" Foreground="White" Height="36" Width="133" Click="calculate_Click"/>
+        <Label x:Name="result" Content="El valor del voltaje es:" HorizontalAlignment="Left" Margin="458,244,0,0" VerticalAlignment="Top" Foreground="#FF1A79AB" FontSize="14"/>
+        <Image HorizontalAlignment="Left" Height="190" Margin="26,117,0,0" VerticalAlignment="Top" Width="412" Source="/image.jpg"/>
+
+    </Grid>
+</Window>
